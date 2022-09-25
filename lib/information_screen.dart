@@ -29,6 +29,7 @@ class _InformationState extends State<Information> {
         ),
         child: Column(
           children: [
+            
             Container(
               width: size.width,
               height: size.height * 0.25,

@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
 
 
-      
+
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: ThemeData(
@@ -41,6 +41,7 @@ class MyApp extends StatelessWidget {
                 fontFamily: 'RobotoCondesed',
                 fontWeight: FontWeight.w500,
               ),
+              
               titleSmall: const TextStyle(
                 fontSize: 15,
                 fontFamily: 'Raleway',
